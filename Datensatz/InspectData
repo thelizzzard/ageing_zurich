@@ -1,5 +1,0 @@
-# Inspect data
-import pandas as pd
-
-# Load data
-read_csv()
